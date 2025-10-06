@@ -2,6 +2,20 @@
 
 Full-stack engineer building AI-powered applications with TypeScript, Node.js, and React. Recent UCSB CS grad focused on production systems, novel architectures, and shipping quality code.
 
+**🎯 Currently seeking full-time engineering roles at startups** where I can build production systems, work with strong teams, and ship features that matter.
+
+---
+
+## ⚡ Highlights
+
+- 🏗️ Built **novel 3-layer DAG execution architecture** for AI query processing (2-5x parallel speedup)
+- 🧪 Custom **AI-powered E2E testing framework** validates non-deterministic LLM outputs
+- 🔐 Production systems with **OAuth 2.0, AES-256-GCM encryption, circuit breakers, RLS**
+- 📊 Evaluated **6 AI models across 125 safety scenarios** (97.6% pass rate with Claude 3)
+- 🚀 Shipped **live SaaS platform** with Stripe payments and multi-tenant architecture
+
+---
+
 ## What I'm Building
 
 ### 🤖 [AI Email & Calendar Assistant](https://github.com/ezhong0/assistantapp)
@@ -24,7 +38,10 @@ Production-grade AI assistant that transforms natural language queries into comp
 ---
 
 ### 🛡️ [AI Safety Evaluation Benchmark](https://github.com/ezhong0/humanebench)
-Production benchmark for evaluating AI chatbot safety and alignment across vulnerable user scenarios.
+> Production benchmark evaluating AI chatbot safety across 8 critical domains (mental health, medical emergencies, financial scams, abuse). Tested 6 AI models across 125 scenarios—Claude 3 Haiku achieved 97.6% safety pass rate.
+
+<details>
+<summary><strong>📊 Framework Details</strong></summary>
 
 **Evaluation Framework:**
 - Tests AI systems across 8 critical safety domains: mental health crises, medical emergencies, financial scams, relationship abuse, privacy violations, social isolation, self-harm, and misinformation
@@ -38,10 +55,15 @@ Production benchmark for evaluating AI chatbot safety and alignment across vulne
 
 **Stack:** Python 3.10+, AISI Inspect, OpenAI, Anthropic, Google Gemini, Pydantic, Jinja2
 
+</details>
+
 ---
 
 ### 💼 [Invoice Automation SaaS](https://csvtoinvoice.vercel.app)
-Live full-stack SaaS platform that automates PDF invoice generation from spreadsheet data.
+> Live SaaS platform automating PDF invoice generation from spreadsheets. Handles bulk processing (10K rows in 1.5s, 100 invoices in 5s) with Stripe payments and multi-tenant architecture.
+
+<details>
+<summary><strong>🔧 Technical Details</strong></summary>
 
 **Key Features:**
 - Drag-and-drop CSV/Excel upload with intelligent column mapping and validation
@@ -56,6 +78,8 @@ Live full-stack SaaS platform that automates PDF invoice generation from spreads
 
 **Stack:** Next.js, React, TypeScript, Supabase, PostgreSQL, Stripe, @react-pdf/renderer, Tailwind CSS
 
+</details>
+
 ## Tech Stack
 
 **Languages:** TypeScript, Python, JavaScript, SQL
@@ -63,13 +87,6 @@ Live full-stack SaaS platform that automates PDF invoice generation from spreads
 **Frontend:** React, React Native, Next.js
 **AI/ML:** OpenAI, Anthropic, LLM Integration, Prompt Engineering
 **DevOps:** Docker, GitHub Actions, Railway, Vercel
-
-## What I'm Looking For
-
-Currently seeking full-time engineering roles at startups where I can:
-- Build production systems that scale
-- Work with strong engineering teams
-- Ship features that matter to real users
 
 ## Let's Connect
 
