@@ -7,8 +7,8 @@ Full-stack engineer building AI-powered applications with TypeScript, Node.js, a
 **[AI Email & Calendar Assistant](https://github.com/ezhong0/assistantapp)** - Production AI assistant with 3-layer DAG execution pipeline
 72,000+ lines of TypeScript/React | Custom E2E testing framework | Novel parallel execution architecture
 
-**[AI Ethics Evaluation Framework](https://github.com/ezhong0/humanebench)** - Python framework for testing AI behavior
-Multi-model evaluation (GPT-4, Claude, Gemini) | AISI Inspect integration | Safety research focus
+**[AI Safety Evaluation Benchmark](https://github.com/ezhong0/humanebench)** - Production benchmark for AI chatbot safety testing
+125 test cases across 8 safety domains | Multi-model evaluation (GPT-4, Claude, Gemini) | 97.6% safety pass rate
 
 **[Invoice Automation SaaS](https://csvtoinvoice.vercel.app)** - Live SaaS platform for PDF invoice generation
 Next.js + Supabase + Stripe | Row-level security | Multi-tenant architecture
