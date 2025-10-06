@@ -18,7 +18,7 @@ Full-stack engineer building AI-powered applications with TypeScript, Node.js, a
 
 ## What I'm Building
 
-### 🤖 [AI Email & Calendar Assistant](https://github.com/ezhong0/assistantapp)
+### 🤖 [AI Email & Calendar Assistant](https://github.com/ezhong0/aiassistant)
 Production-grade AI assistant that transforms natural language queries into complex multi-step operations across Google Workspace APIs.
 
 **Novel 3-Layer DAG Architecture:**
