@@ -22,7 +22,7 @@
   ## What I'm Building
 
   ### 🤖 [Tide (AI Email & Calendar Assistant)](https://github.com/ezhong0/tide)
-  ## 🤖 [Version 1](https://github.com/ezhong0/aiassistant)
+  #### 🤖 [Version 0](https://github.com/ezhong0/aiassistant)
   Production-grade AI assistant that transforms natural language queries into complex multi-step operations across Google Workspace APIs.
 
   **Novel 3-Layer DAG Architecture:**
