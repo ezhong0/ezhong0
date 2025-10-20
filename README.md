@@ -21,7 +21,8 @@
 
   ## What I'm Building
 
-  ### 🤖 [AI Email & Calendar Assistant](https://github.com/ezhong0/aiassistant)
+  ### 🤖 [Tide (AI Email & Calendar Assistant)](https://github.com/ezhong0/tide)
+  ## 🤖 [Version 1](https://github.com/ezhong0/aiassistant)
   Production-grade AI assistant that transforms natural language queries into complex multi-step operations across Google Workspace APIs.
 
   **Novel 3-Layer DAG Architecture:**
@@ -41,7 +42,7 @@
 
   ---
 
-  ### 🧠 [Ontology-Aware Memory System](https://github.com/ezhong0/ontology-memory)
+  ### 🧠 [Ontology-Aware Memory System](https://github.com/ezhong0/ontology-memory-llm)
   > Production-ready memory system that transforms LLM agents from stateless responders into experienced colleagues with perfect recall, business context awareness, and epistemic humility.
    11,864 lines of production Python with pure hexagonal architecture.
 
